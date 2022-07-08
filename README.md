@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathyusha</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img align="centre" alt="coding" src="http://www2.sosbis.com/wp-content/uploads/2017/11/growth-through-education-say-handheld-words-knowledge-is-power-picture-Banner.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathyusha666&label=Profile%20views&color=0e75b6&style=flat" alt="prathyusha666" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathyusha666" alt="prathyusha666" /></a> </p>
